@@ -1,4 +1,4 @@
-﻿---
+---
 name: jd-waimai
 slug: jd-waimai
 displayName: 京东外卖红包助手
